@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"This time next year we will be millionaires!"
 Use the left arrow to go back!
